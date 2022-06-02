@@ -19,4 +19,4 @@
 <br>
 <br>
 <b>Lectures</b><br>
-<a href="<a href="https://www.bradyneal.com/causal-inference-course">"> Introduction to Causal Inference </a>
+<a href="https://www.bradyneal.com/causal-inference-course">"> Introduction to Causal Inference </a>
