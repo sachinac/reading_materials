@@ -10,3 +10,4 @@
 <b>NLP</b><br>
 <br>
 <a href="https://nlpforhackers.io/named-entity-extraction/"> Named Entity Recognition </a><br>
+<a href="https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html"> Information Retrieval (Stanford) </a>
