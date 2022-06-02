@@ -6,7 +6,8 @@
 <a href="https://scikit-learn.org/stable/"> SK learn </a><br>
 <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf"> Intro to CRF </a><br>
 <a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> <br>
-<a href="https://christophm.github.io/interpretable-ml-book/interaction.html"> Feature Interaction </a>
+<a href="https://christophm.github.io/interpretable-ml-book/interaction.html"> Feature Interaction </a> <br>
+ 
 <br>
 
 <b>NLP</b><br>
@@ -14,3 +15,8 @@
 <a href="https://nlpforhackers.io/named-entity-extraction/"> Named Entity Recognition </a><br>
 <a href="https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html"> Information Retrieval (Stanford) </a><br>
 <a href="https://lena-voita.github.io/nlp_course.html"> NLP course by Lena Voita</a> 
+
+<br>
+<br>
+<b>Lectures</b><br>
+<a href="<a href="https://www.bradyneal.com/causal-inference-course">"> Introduction to Causal Inference </a>
