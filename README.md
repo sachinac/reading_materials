@@ -5,7 +5,8 @@
 <a href="https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/"> A/B Testing </a><br>
 <a href="https://scikit-learn.org/stable/"> SK learn </a><br>
 <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf"> Intro to CRF </a><br>
-<a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> 
+<a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> <br>
+<a href="https://christophm.github.io/interpretable-ml-book/interaction.html"> Feature Interaction </a>
 <br>
 
 <b>NLP</b><br>
