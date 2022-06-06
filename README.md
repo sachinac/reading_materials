@@ -7,6 +7,7 @@
 <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf"> Intro to CRF </a><br>
 <a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> <br>
 <a href="https://christophm.github.io/interpretable-ml-book/interaction.html"> Feature Interaction </a> <br>
+<a href="https://betterprogramming.pub/implement-a-scalable-websocket-server-with-spring-boot-redis-pub-sub-and-redis-streams-b6b8cc08767f"> Scalable websocket server </a>
  
 <br>
 
