@@ -10,7 +10,7 @@
 <a href="https://betterprogramming.pub/implement-a-scalable-websocket-server-with-spring-boot-redis-pub-sub-and-redis-streams-b6b8cc08767f"> Scalable websocket server </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 
-<b>NLP</b><br>
+<b>Natural Language Processing </b><br>
 <br>
 <a href="https://nlpforhackers.io/named-entity-extraction/"> Named Entity Recognition </a><br>
 <a href="https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html"> Information Retrieval (Stanford) </a><br>
