@@ -11,6 +11,7 @@
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 <a href="https://www.linkedin.com/pulse/difference-between-mar-mcar-mnar-missing-data-zakarie-a-hashi/"> MAR, MCAR and MNAR </a> <br>
 <a href="https://datascienceplus.com/imputing-missing-data-with-r-mice-package/"> Data Imputations </a> <br>
+<a href="https://stats.oarc.ucla.edu/r/faq/how-do-i-perform-multiple-imputation-using-predictive-mean-matching-in-r/"> Multiple Imputations </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Reading List (MIT) </a><br>
 
 
