@@ -13,6 +13,7 @@
 <a href="https://datascienceplus.com/imputing-missing-data-with-r-mice-package/"> Data Imputations </a> <br>
 <a href="https://stats.oarc.ucla.edu/r/faq/how-do-i-perform-multiple-imputation-using-predictive-mean-matching-in-r/"> Multiple Imputations </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Reading List (MIT) </a><br>
+<a href="https://medium.com/@danilop/aws-lambda-calling-functions-from-a-web-browser-338fbcb6a44d"> AWS Lambda example </a><br>
 
 
 <b>Natural Language Processing </b><br>
