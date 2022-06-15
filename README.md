@@ -20,7 +20,7 @@
 <a href="https://stats.oarc.ucla.edu/r/faq/how-do-i-perform-multiple-imputation-using-predictive-mean-matching-in-r/"> Multiple Imputations </a> <br>
 
 
-<b>Natural Language Processing </b><br>
+# Natural Language Processing
 <br>
 <a href="https://nlpforhackers.io/named-entity-extraction/"> Named Entity Recognition </a><br>
 <a href="https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html"> Information Retrieval (Stanford) </a><br>
@@ -29,5 +29,6 @@
 
 <br>
 <br>
-<b>Lectures</b><br>
+# Lectures
+
 <a href="https://www.bradyneal.com/causal-inference-course"> Introduction to Causal Inference </a>
