@@ -6,9 +6,9 @@
 <a href="https://bair.berkeley.edu/blog/2019/12/12/mbpo/"> Model based RL (Berkeley) </a><br>
 <a href="https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-q-learning"> Q Learning </a>
 
-<a href=https://spinningup.openai.com/en/latest/user/introduction.html"> OpenAI - Introduction</><br>
-<a href=https://www.guru99.com/reinforcement-learning-tutorial.html#6"> RL Tutorials</><br>
-<a href=http://rail.eecs.berkeley.edu/deeprlcourse/"> Deep Reinforcement Learning (Berkeley) </><br>
-<a href=https://neptune.ai/blog/model-based-and-model-free-reinforcement-learning-pytennis-case-study"> Model based and Model free RL </><br>
+<a href=https://spinningup.openai.com/en/latest/user/introduction.html"> OpenAI - Introduction</a><br>
+<a href=https://www.guru99.com/reinforcement-learning-tutorial.html#6"> RL Tutorials</a><br>
+<a href=http://rail.eecs.berkeley.edu/deeprlcourse/"> Deep Reinforcement Learning (Berkeley) </a><br>
+<a href=https://neptune.ai/blog/model-based-and-model-free-reinforcement-learning-pytennis-case-study"> Model based and Model free RL </a><br>
 
                                                                              
