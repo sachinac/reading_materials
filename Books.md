@@ -2,5 +2,6 @@
 
 <a href="https://christophm.github.io/interpretable-ml-book/index.html#summary"> Interpretable Machine Learning </a> <br>
 <a href="https://livebook.manning.com/book/aws-lambda-in-action/chapter-1/20"> AWS Lambda in Action - <a href="https://github.com/danilop/AWS_Lambda_in_Action"> Github Repo </a> </a> <br>
-<a href="https://shainarace.github.io/LinearAlgebra/index.html"> Linear Algebra </a>
+<a href="https://shainarace.github.io/LinearAlgebra/index.html"> Linear Algebra </a> <br>
+<a href="https://onlinestatbook.com/2/index.html"> Online Statistics Book </a>
 
