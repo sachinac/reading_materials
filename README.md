@@ -11,6 +11,7 @@
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Reading List (MIT) </a><br>
 <a href="https://medium.com/@danilop/aws-lambda-calling-functions-from-a-web-browser-338fbcb6a44d"> AWS Lambda example </a><br>
+<a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> 14 most read books </a><br>
 
 # Handling Missing Data
 
