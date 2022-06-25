@@ -12,4 +12,4 @@
 ## General
 
 <a href="https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9"> Data Science Projects </a> <br>
-<a href="https://www.kdnuggets.com/2019/04/best-data-visualization-techniques.html"> Data Visualizations with large datasets </a>
+<a href="https://www.kdnuggets.com/2019/04/best-data-visualization-techniques.html"> Data Visualizations with large datasets </a> <br>
