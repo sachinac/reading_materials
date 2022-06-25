@@ -21,7 +21,6 @@
 <a href="https://stefvanbuuren.name/fimd/symbol-description.html"> Flexible Data Imputations </a><br>
 <a href="https://stats.oarc.ucla.edu/r/faq/how-do-i-perform-multiple-imputation-using-predictive-mean-matching-in-r/"> Multiple Imputations </a> <br>
 
-
 # Natural Language Processing
 
 <a href="https://nlpforhackers.io/named-entity-extraction/"> Named Entity Recognition </a><br>
@@ -29,7 +28,6 @@
 <a href="https://lena-voita.github.io/nlp_course.html"> NLP course by Lena Voita</a><br> 
 <a href="https://www.nltk.org/book/"> NLTK book </a>
 
-<br>
 <br>
 
 # Lectures
