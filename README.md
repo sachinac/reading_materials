@@ -28,8 +28,6 @@
 <a href="https://lena-voita.github.io/nlp_course.html"> NLP course by Lena Voita</a><br> 
 <a href="https://www.nltk.org/book/"> NLTK book </a>
 
-<br>
-
 # Lectures
 
 <a href="https://www.bradyneal.com/causal-inference-course"> Introduction to Causal Inference </a>
