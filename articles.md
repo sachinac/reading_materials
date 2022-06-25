@@ -6,6 +6,7 @@
 <a href="https://medium.com/swlh/cartpole-with-policy-gradient-tensorflow-2-x-3a7a14b9cc03"> Cartpole with Policy Gradients </a> <br>
 
 ## Mathematics for Data Science
+
 <a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> Books to read </a> <br>
 
 ## General
