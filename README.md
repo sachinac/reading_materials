@@ -32,3 +32,4 @@
 
 <a href="https://www.bradyneal.com/causal-inference-course"> Introduction to Causal Inference </a> <br>
 <a href="https://online.stat.psu.edu/stat504/"> Stats 504 course </a> <br>
+<a href="https://openstax.org/books/statistics/pages/4-2-mean-or-expected-value-and-standard-deviation"> Statistics </a>
