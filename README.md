@@ -14,6 +14,11 @@
 <a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> 14 most read books </a><br>
 <a href="https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/"> Shanon Entropy </a><br>
 
+# TDS, Medium Articles
+
+<a href="https://towardsdatascience.com/linear-regression-or-generalized-linear-model-1636e29803d0"> Classical Linear Regression and GLMs </a>
+
+
 # Handling Missing Data
 
 <a href="https://www.linkedin.com/pulse/difference-between-mar-mcar-mnar-missing-data-zakarie-a-hashi/"> MAR, MCAR and MNAR </a> <br>
