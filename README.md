@@ -16,7 +16,7 @@
 
 # TDS, Medium Articles
 
-<a href="https://towardsdatascience.com/linear-regression-or-generalized-linear-model-1636e29803d0"> Classical Linear Regression and GLMs </a>
+<a href="https://towardsdatascience.com/linear-regression-or-generalized-linear-model-1636e29803d0"> Classical Linear Regression and GLMs </a><br>
 
 
 # Handling Missing Data
