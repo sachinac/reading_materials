@@ -6,7 +6,6 @@
 <a href="https://scikit-learn.org/stable/"> SK learn </a><br>
 <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf"> Introduction to Conditional Random Field </a><br>
 <a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> <br>
-<a href="https://christophm.github.io/interpretable-ml-book/interaction.html"> Feature Interaction </a> <br>
 <a href="https://betterprogramming.pub/implement-a-scalable-websocket-server-with-spring-boot-redis-pub-sub-and-redis-streams-b6b8cc08767f"> Scalable websocket server </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Reading List (MIT) </a><br>
