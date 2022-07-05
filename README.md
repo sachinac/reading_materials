@@ -13,6 +13,8 @@
 <a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> 14 most read books </a><br>
 <a href="https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/"> Shanon Entropy </a><br>
 
+<a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a>
+
 # TDS, Medium Articles
 
 <a href="https://towardsdatascience.com/linear-regression-or-generalized-linear-model-1636e29803d0"> Classical Linear Regression and GLMs </a><br>
