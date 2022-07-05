@@ -7,13 +7,14 @@
 <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf"> Introduction to Conditional Random Field </a><br>
 <a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> <br>
 <a href="https://betterprogramming.pub/implement-a-scalable-websocket-server-with-spring-boot-redis-pub-sub-and-redis-streams-b6b8cc08767f"> Scalable websocket server </a> <br>
-<a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Reading List (MIT) </a><br>
 <a href="https://medium.com/@danilop/aws-lambda-calling-functions-from-a-web-browser-338fbcb6a44d"> AWS Lambda example </a><br>
 <a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> 14 most read books </a><br>
 <a href="https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/"> Shanon Entropy </a><br>
 
+## Probablity 
 <a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a> <br>
+<a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 
 # TDS, Medium Articles
 
