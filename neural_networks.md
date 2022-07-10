@@ -1,6 +1,6 @@
 # Neural Networks
 
-<a href="https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491"> Everything you need to know about Neural </a>
+<a href="https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491"> Everything you need to know about Neural </a><br>
 <a href="https://www.analyticsvidhya.com/blog/2022/03/introduction-to-densenets-dense-cnn/?utm_source=linkedin&utm_medium=social&utm_campaign=new-article&utm_content=B&custom=LBI1394"> 
 Dense CNN </a><br>
 
