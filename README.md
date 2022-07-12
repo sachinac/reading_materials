@@ -37,6 +37,10 @@
 <a href="https://lena-voita.github.io/nlp_course.html"> NLP course by Lena Voita </a><br> 
 <a href="https://www.nltk.org/book/"> NLTK Book </a>
 
+# Interview Preparation
+
+<a href="https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee"> 40 Stats interview Problems </a>
+
 # Lectures
 
 <a href="https://www.bradyneal.com/causal-inference-course"> Introduction to Causal Inference </a> <br>
