@@ -41,7 +41,7 @@
 
 <a href="https://www.bradyneal.com/causal-inference-course"> Introduction to Causal Inference </a> <br>
 <a href="https://online.stat.psu.edu/stat504/"> Stats 504 Course (Penn) </a> <br>
-<a href="https://openstax.org/books/statistics/pages/preface"> Basic Statistics (Openstax) </a>
+<a href="https://openstax.org/books/statistics/pages/preface"> Basic Statistics (Openstax) </a><br>
 <a href="https://aman.ai/watch/"> Distilled AI (Lectures) Videos </a>
 
 
