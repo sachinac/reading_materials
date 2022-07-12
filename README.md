@@ -12,7 +12,7 @@
 <a href="https://medium.com/@danilop/aws-lambda-calling-functions-from-a-web-browser-338fbcb6a44d"> AWS Lambda example </a><br>
 <a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> 14 most read books </a><br>
 <a href="https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/"> Shanon Entropy </a><br>
-<a href="https://aman.ai/read/"> Distilled AI (Stanford) </a>
+<a href="https://aman.ai/read/"> Distilled AI (Stanford)</a>
 
 ## Probablity 
 <a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a> <br>
