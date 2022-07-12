@@ -35,11 +35,11 @@
 <a href="https://nlpforhackers.io/named-entity-extraction/"> Named Entity Recognition </a><br>
 <a href="https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html"> Information Retrieval (Stanford) </a><br>
 <a href="https://lena-voita.github.io/nlp_course.html"> NLP course by Lena Voita </a><br> 
-<a href="https://www.nltk.org/book/"> NLTK Book </a>
+<a href="https://www.nltk.org/book/"> NLTK Book </a> <br>
 
 # Interview Preparation
 
-<a href="https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee"> 40 Stats interview Problems </a>
+<a href="https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee"> 40 Stats interview Problems </a><br>
 
 # Lectures
 
