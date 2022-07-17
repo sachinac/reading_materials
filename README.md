@@ -47,5 +47,6 @@
 <a href="https://online.stat.psu.edu/stat504/"> Stats 504 Course (Penn) </a> <br>
 <a href="https://openstax.org/books/statistics/pages/preface"> Basic Statistics (Openstax) </a><br>
 <a href="https://aman.ai/watch/"> Distilled AI (Stanford) Videos </a>
+<a href="https://www.youtube.com/watch?v=0sKPkJME2Jw"> Mathematics of Big data and Machine Learning (Youtube) </a>
 
 
