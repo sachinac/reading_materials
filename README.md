@@ -6,7 +6,7 @@
 <a href="https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/"> A/B Testing Using Python</a><br>
 <a href="https://scikit-learn.org/stable/"> Scikit learn Documentation </a><br>
 <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf"> Introduction to Conditional Random Field </a><br>
-<a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi(Stanford) </a> <br>
+<a href="https://stanford.edu/~shervine/teaching/cs-221/"> Shervine Amidi (Stanford) </a> <br>
 <a href="https://betterprogramming.pub/implement-a-scalable-websocket-server-with-spring-boot-redis-pub-sub-and-redis-streams-b6b8cc08767f"> Scalable websocket server </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Reading List (MIT) </a><br>
 <a href="https://medium.com/@danilop/aws-lambda-calling-functions-from-a-web-browser-338fbcb6a44d"> AWS Lambda example </a><br>
