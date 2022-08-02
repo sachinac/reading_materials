@@ -19,7 +19,7 @@
 <a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 
-# TDS, Medium Articles
+# Towards Data Science, Medium Articles
 
 <a href="https://towardsdatascience.com/linear-regression-or-generalized-linear-model-1636e29803d0"> Classical Linear Regression and GLMs </a><br>
 
