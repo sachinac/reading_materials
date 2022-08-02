@@ -15,6 +15,7 @@
 <a href="https://aman.ai/read/"> Distilled AI (Stanford)</a>
 
 ## Probablity 
+
 <a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a> <br>
 <a href="http://probcomp.csail.mit.edu/reading-list/"> Probabilistic Computing </a> <br>
 
@@ -39,8 +40,7 @@
 
 # Interview Preparation
 
-<a href="https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee"> 40 Stats interview Problems </a><br>
-
+<a href="https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee"> 40 Stats interview Problems </a>
 # Lectures
 
 <a href="https://www.bradyneal.com/causal-inference-course"> Introduction to Causal Inference </a> <br>
