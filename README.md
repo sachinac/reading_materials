@@ -14,6 +14,7 @@
 <a href="https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/"> Shanon Entropy </a><br>
 <a href="https://aman.ai/read/"> Distilled AI (Stanford)</a>
 
+
 ## Probablity 
 
 <a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a> <br>
