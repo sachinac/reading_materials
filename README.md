@@ -50,4 +50,3 @@
 <a href="https://aman.ai/watch/"> Distilled AI (Stanford) Videos </a><br>
 <a href="https://www.youtube.com/watch?v=0sKPkJME2Jw"> Mathematics of Big data and Machine Learning (MIT) </a>
 
-
