@@ -12,7 +12,7 @@
 <a href="https://medium.com/@danilop/aws-lambda-calling-functions-from-a-web-browser-338fbcb6a44d"> AWS Lambda example </a><br>
 <a href="https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/"> 14 most read books </a><br>
 <a href="https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/"> Shanon Entropy </a><br>
-<a href="https://aman.ai/read/"> Distilled AI (Stanford)</a>
+<a href="https://aman.ai/read/"> Distilled AI (Stanford)</a><br>
 <a href="https://coderpad.io/blog/development/the-complete-guide-to-regular-expressions-regex/?li_fat_id=69997f8e-90a0-4bd8-a50d-6f32f4c66a9c"> 
 Regular Expressions </a>
 
