@@ -7,5 +7,4 @@
 <a href="https://christophm.github.io/interpretable-ml-book/interaction.html"> Feature Interaction </a> <br>
 <a href="https://shainarace.github.io/LinearAlgebra/index.html"> Linear Algebra </a> <br>
 <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf"> Reinforcement Learning (Stanford) </a> <br>
-
-<a href="https://en.m.wikipedia.org/wiki/How_to_Lie_with_Statistics"> How to Lie with statistics </a>
+<a href="https://en.m.wikipedia.org/wiki/How_to_Lie_with_Statistics"> How to Lie with statistics (Just a Wiki Page) </a><br>
