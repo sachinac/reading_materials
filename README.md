@@ -18,6 +18,7 @@ Regular Expressions </a>
 
 <a href="https://mlu-explain.github.io/logistic-regression/"> Logistic Regression </a>
 
+
 ## Probablity 
 
 <a href="https://towardsai.net/p/machine-learning/bayes-theorem-explained?"> Bayes Theorem Explained </a> <br>
