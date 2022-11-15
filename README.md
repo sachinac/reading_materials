@@ -16,7 +16,7 @@
 <a href="https://coderpad.io/blog/development/the-complete-guide-to-regular-expressions-regex/?li_fat_id=69997f8e-90a0-4bd8-a50d-6f32f4c66a9c"> 
 Regular Expressions </a>
 <a href="https://refactoring.guru/design-patterns/creational-patterns"> Design Patterns </a><br>
-<a href="https://mlu-explain.github.io/logistic-regression/"> Logistic Regression </a>
+<a href="https://mlu-explain.github.io/logistic-regression/"> Logistic Regression </a><br>
 <a href="https://cxl.com/blog/bayesian-frequentist-ab-testing/"> Frequentist Vs Bayesian </a>
 
 ## Probablity 
