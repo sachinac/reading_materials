@@ -17,7 +17,10 @@
 Regular Expressions </a>
 <a href="https://refactoring.guru/design-patterns/creational-patterns"> Design Patterns </a><br>
 <a href="https://mlu-explain.github.io/logistic-regression/"> Logistic Regression </a><br>
+<a hiref="https://www.graphpad.com/support/faq/the-distinction-between-confidence-intervals-prediction-intervals-and-tolerance-intervals/">
+Confidence, Prediction and Tolerance Interval </a><br>
 <a href="https://cxl.com/blog/bayesian-frequentist-ab-testing/"> Frequentist Vs Bayesian </a>
+
 
 ## Probablity 
 
