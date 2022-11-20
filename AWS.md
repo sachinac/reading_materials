@@ -19,11 +19,9 @@ Summary from this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-d
        <td>Low Latency with Data ingestion at scale</td>
        <td>Data Transfer Service</td>
     </tr>  
-
     <tr>
        <td>Data can be stored from 1 to 7 days</td>
        <td>No Data Storage</td>
     </tr>  
-
   </tbody>
 </table>
