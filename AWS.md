@@ -1,5 +1,7 @@
 Differenece between Kinesis Data Streams and Kinesis Firehose
 
+Summary form this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-data-streams-vs-aws-kinesis-data-firehose/"> Difference </a>
+
 <table>
   <thead>
     <tr>
@@ -10,8 +12,12 @@ Differenece between Kinesis Data Streams and Kinesis Firehose
 
    <tbody>
     <tr>
-       <td>Not a Fully Managed Service</td>
+       <td>Not a Fully Managed Service. Manual intervention is required.</td>
        <td>Fully Managed Service</td>
+    </tr>  
+    <tr>
+       <td>Low Latency with Data ingestion at scale</td>
+       <td>Data Transfer Service</td>
     </tr>  
          
   </tbody>
