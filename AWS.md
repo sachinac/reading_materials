@@ -22,5 +22,9 @@ Summary from this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-d
        <td>Data can be stored from 1 to 7 days</td>
        <td>No Data Storage</td>
     </tr>  
+    <tr>
+       <td>Replay Capability</td>
+       <td>No Replay Capabilty</td>
+    </tr>  
   </tbody>
 </table>
