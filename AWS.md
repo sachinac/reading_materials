@@ -9,7 +9,6 @@ Summary from this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-d
        <th>Kinesis Firehose</th>
     </tr>  
 </thead>
-
    <tbody>
     <tr>
        <td>Not a Fully Managed Service. Manual intervention is required.</td>
