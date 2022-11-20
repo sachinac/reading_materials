@@ -26,5 +26,9 @@ Summary from this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-d
        <td>Replay Capability</td>
        <td>No Replay Capabilty</td>
     </tr>  
+    <tr>
+       <td>Manual Scaling</td>
+       <td>Automatic Scaling</td>
+    </tr>  
   </tbody>
 </table>
