@@ -3,15 +3,15 @@ Differenece between Kinesis Data Streams and Kinesis Firehose
 <table>
   <thead>
     <tr>
-       <th>Portal Name</th>
-       <th>User ID</th>
+       <th>Kinesis Data Stream</th>
+       <th>Kinesis Firehose</th>
     </tr>  
 </thead>
 
    <tbody>
     <tr>
-       <td>Portal Name</td>
-       <td>User ID</td>
+       <td>Not a Fully Managed Service</td>
+       <td>Fully Managed Service</td>
     </tr>  
          
   </tbody>
