@@ -1,6 +1,6 @@
 Differenece between Kinesis Data Streams and Kinesis Firehose
 
-Summary form this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-data-streams-vs-aws-kinesis-data-firehose/"> Difference </a>
+Summary from this article : <a href="https://www.whizlabs.com/blog/aws-kinesis-data-streams-vs-aws-kinesis-data-firehose/"> Article </a>
 
 <table>
   <thead>
