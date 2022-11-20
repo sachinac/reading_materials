@@ -10,8 +10,8 @@ Differenece between Kinesis Data Streams and Kinesis Firehose
 
        <tbody>
     <tr>
-       <th>Portal Name</th>
-       <th>User ID</th>
+       <td>Portal Name</td>
+       <td>User ID</td>
     </tr>  
          
        </tbody>
