@@ -20,7 +20,7 @@ Regular Expressions </a>
 <a href="https://www.graphpad.com/support/faq/the-distinction-between-confidence-intervals-prediction-intervals-and-tolerance-intervals/">
 Confidence, Prediction and Tolerance Interval </a><br>
 <a href="https://cxl.com/blog/bayesian-frequentist-ab-testing/"> Frequentist Vs Bayesian </a>
-
+<a href="https://www.vantage-ai.com/en/blog/4-strategies-how-to-deal-with-large-datasets-in-pandas"> How to handle large datasets using Pandas </a>
 
 ## Probablity 
 
