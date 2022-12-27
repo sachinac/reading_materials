@@ -7,6 +7,7 @@ Django Reading Materials.
 
 Videos<br>
 <a href="https://www.youtube.com/watch?v=rJesac0_Ftw"> JSON and AJAX Tutorial: With Real Examples </a> <br>
-<a href="https://www.youtube.com/watch?v=wSNa5b1mS5Y"> Handlebars </a>
+<a href="https://www.youtube.com/watch?v=wSNa5b1mS5Y"> Handlebars </a> <br>
+<a href="https://www.youtube.com/watch?v=mlr9BF4JomE"> REST API using Django </a>
 
 
