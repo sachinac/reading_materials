@@ -5,3 +5,7 @@ Django Reading Materials.
 <a href="https://www.caktusgroup.com/blog/2019/02/01/creating-api-endpoint-django-rest-framework/"> Cretae end points </a>
 
 
+Videos
+<a href="https://www.youtube.com/watch?v=rJesac0_Ftw"> JSON and AJAX Tutorial: With Real Examples </a>
+
+
