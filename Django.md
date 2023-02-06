@@ -12,6 +12,7 @@ Videos<br>
 <a href="https://www.youtube.com/watch?v=mlr9BF4JomE"> REST API using Django </a><br>
 <a href="https://www.youtube.com/watch?v=Ob3j81-UV0c"> Build Python NoSQL API </a><br>
 <a href="https://www.youtube.com/watch?v=8Rmj5UY5mJk"> What is NPM and how to use it </a><br>
-<a href="https://www.youtube.com/watch?v=TzgZBg7oXNA&t=481s"> How to Use Select Related and Prefetch Related in Django </a>
+<a href="https://www.youtube.com/watch?v=TzgZBg7oXNA&t=481s"> How to Use Select Related and Prefetch Related in Django </a><br>
+<a href="https://www.youtube.com/watch?v=ZC0iZtHCiHQ"> Django : Django- getting a list of foreign key objects </a>
 
 
