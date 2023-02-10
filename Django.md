@@ -3,7 +3,8 @@ Django Reading Materials.
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django">  Django Tutorial </a> <br>
 <a href="https://www.hacksoft.io/blog/quick-and-dirty-django-passing-data-to-javascript-without-ajax"> Pass data to Javascript without Ajax</a><br>
 <a href="https://www.caktusgroup.com/blog/2019/02/01/creating-api-endpoint-django-rest-framework/"> Create end points </a> <br>
-<a href="https://simpleisbetterthancomplex.com/tutorial/2016/12/06/how-to-create-group-by-queries.html"> group by in Django </a>
+<a href="https://simpleisbetterthancomplex.com/tutorial/2016/12/06/how-to-create-group-by-queries.html"> group by in Django </a> <br>
+<a href="https://webpack.js.org/configuration/module/"> Webpack Module </a>
 
 
 Videos<br>
